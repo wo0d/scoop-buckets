@@ -12,7 +12,6 @@
         }
     },
     "bin": "chisel_windows_amd64.exe",
-    "checkver": "https://github.com/jpillora/chisel",
     "autoupdate": {
         "architecture": {
             "32bit": {
